@@ -6,6 +6,7 @@ const App = () => {
         <div className="App">
             <h1>Dynamic Table Input with React Hook Form</h1>
             <TableInput />
+            
         </div>
     );
 };
